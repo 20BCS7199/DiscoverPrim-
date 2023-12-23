@@ -4,7 +4,12 @@ LIVE: https://discoverprime.netlify.app/
 - Intergrated movieDB API to get real-time data, and ReactJS to display dynamic content.
 - Used Bootstrap and MaterialUI to add material design and prebuilt components.
 
-![look1](https://github.com/20BCS7199/DiscoverPrime/assets/89652235/db0abf06-b512-4a94-8e94-73b577e26aa3)
+**Trending:**
+![Homepage](https://github.com/20BCS7199/DiscoverPrime/assets/89652235/345cab3a-db18-448d-a5d4-3a2d91b3f316)
 
-![priime1](https://github.com/20BCS7199/DiscoverPrime/assets/89652235/aedd5fda-fb8b-4d9e-86f5-910cfd97f460)
+**Movies**
+![Movies](https://github.com/20BCS7199/DiscoverPrime/assets/89652235/f23af68a-7325-49b0-a60a-c67716ba496c)
+
+**TV Series**
+![TV Series](https://github.com/20BCS7199/DiscoverPrime/assets/89652235/1adaccad-c23b-44e5-a1eb-f09c6d4b112d)
 
